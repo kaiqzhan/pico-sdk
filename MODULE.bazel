@@ -39,7 +39,7 @@ http_archive(
     build_file = "//bazel/toolchain:gcc_arm_none_eabi.BUILD",
     sha256 = "c8824bffd057afce2259f7618254e840715f33523a3d4e4294f471208f976764",
     strip_prefix = "arm-gnu-toolchain-13.3.rel1-aarch64-arm-none-eabi",
-    url = "https://developer.arm.com/-/media/Files/downloads/gnu/13.2.rel1/binrel/arm-gnu-toolchain-13.3.rel1-aarch64-arm-none-eabi.tar.xz",
+    url = "https://developer.arm.com/-/media/Files/downloads/gnu/13.3.rel1/binrel/arm-gnu-toolchain-13.3.rel1-aarch64-arm-none-eabi.tar.xz",
 )
 
 http_archive(
